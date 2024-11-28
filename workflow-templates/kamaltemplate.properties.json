@@ -1,6 +1,6 @@
 {
     "name": "Kamal Organization Workflow",
-    "description": "kamal Organization CI workflow template.",
+    "description": "kamal Organization function creation workflow template.",
     "iconName": "example-icon",
     "categories": [
         "Go"
